@@ -8,7 +8,7 @@ public class SolverTest {
 	public static void main(String[] args) {
 		int[][] mat=new int[9][9];
 		
-		try(BufferedReader br=new BufferedReader(new FileReader("/home/siddarth/Documents/SudokuHard"));){
+		try(BufferedReader br=new BufferedReader(new FileReader("/home/siddarth/workspace/SudokuSolver/SudokuHard"));){
 			String str;
 			while((str=br.readLine())!=null){
 			

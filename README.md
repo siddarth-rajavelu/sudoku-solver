@@ -1,4 +1,5 @@
 sudoku-solver
 =============
 
-Sudoku Solver using constraint search algorithms
+Sudoku Solver using Constraint Search Algorithms
+
